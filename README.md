@@ -16,7 +16,7 @@ https://juiglesiass.github.io/LandingPage-Food/
 <h2>📌 Futuros aprimoramentos</h2>
 
 - Adicionar interatividade nos depoimentos por meio de um carrossel.
-- Adiconar interatividade para colocar pratos em um carrinho.
+- Adiconar interatividade para colocar os pedidos em um carrinho.
 
 ## ✒ Autor
 
