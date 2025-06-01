@@ -20,8 +20,8 @@ https://juiglesiass.github.io/LandingPage-Food/
 
 ## ✒ Autor
 
-Julia Iglesias - byjuliaiglesias@gmail.com
+- Julia Iglesias - byjuliaiglesias@gmail.com
 
 <h3>Com auxílio de:</h3>
 
-* Larissa Vitória Kich - larissakich04@gmail.com
+- Larissa Vitória Kich - larissakich04@gmail.com
