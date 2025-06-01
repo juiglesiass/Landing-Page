@@ -9,8 +9,9 @@ https://juiglesiass.github.io/LandingPage-Food/
 
 ## 🚀 Tecnologias Utilizadas
 
-- **HTML e CSS**: Para a estruturação e customização.
-- **JavaScript**: Para funcionalidades interativas, como o menu.
+- **HTML** para a estruturação do código.
+- **CSS** para a customização e estilização visual do conteúdo. 
+- **JavaScript** para funcionalidades interativas, como o menu.
 
 <h2>📌 Futuros aprimoramentos</h2>
 
